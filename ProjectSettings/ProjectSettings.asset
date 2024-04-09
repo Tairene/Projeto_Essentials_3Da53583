@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: MyCompany
   productName: Projeto_Essentials_3Da53583
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
